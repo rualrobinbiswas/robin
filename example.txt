@@ -1,3 +1,1 @@
 Here is my main code base
-
-git rm --cached example.dart
